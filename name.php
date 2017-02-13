@@ -1,1 +1,1 @@
-<?php echo "nihao!";?>
+<?php echo I LVOE YOU ?>
